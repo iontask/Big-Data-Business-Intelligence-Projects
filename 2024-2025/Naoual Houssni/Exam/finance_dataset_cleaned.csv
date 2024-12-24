@@ -1,0 +1,501 @@
+date,transaction_id,client_id,montant_transaction,type_transaction,categorie_compte,taux_change,frais_transaction,statut_transaction,localisation_client
+2023-01-01,TID00001,CID1717,3796,Virement,Courant,109,37,En attente,Australie
+2023-01-02,TID00002,CID1445,1301,Virement,Investissement,102,4,échouée,France
+2023-01-03,TID00003,CID8867,211,Débit,Investissement,115,45,échouée,Allemagne
+2023-01-04,TID00004,CID5833,3280,Crédit,Courant,84,6,Réussie,Japon
+2023-01-05,TID00005,CID8796,3773,Virement,Courant,114,16,En attente,Japon
+2023-01-06,TID00006,CID4208,4359,Débit,Courant,111,35,échouée,Japon
+2023-01-07,TID00007,CID6421,421,Crédit,Courant,99,13,En attente,Australie
+2023-01-08,TID00008,CID8626,2957,Virement,Investissement,89,39,échouée,USA
+2023-01-09,TID00009,CID9882,3146,Virement,Courant,91,16,En attente,Japon
+2023-01-10,TID00010,CID3367,2100,Virement,Investissement,88,39,En attente,Japon
+2023-01-11,TID00011,CID5317,2929,Débit,Courant,112,15,Réussie,Allemagne
+2023-01-12,TID00012,CID4259,3485,Virement,Courant,104,47,échouée,Canada
+2023-01-13,TID00013,CID7953,4183,Débit,Courant,94,25,Réussie,Allemagne
+2023-01-14,TID00014,CID9511,1406,Crédit,Ãpargne,114,26,Réussie,Japon
+2023-01-15,TID00015,CID2720,1681,Crédit,Ãpargne,90,40,Réussie,USA
+2023-01-16,TID00016,CID4166,3989,Crédit,Investissement,116,32,Réussie,France
+2023-01-17,TID00017,CID5346,1112,Débit,Courant,119,19,En attente,Australie
+2023-01-18,TID00018,CID1474,3231,Crédit,Courant,97,2,Réussie,USA
+2023-01-19,TID00019,CID6876,1606,Crédit,Investissement,106,15,échouée,Japon
+2023-01-20,TID00020,CID3205,1013,Virement,Courant,109,43,échouée,USA
+2023-01-21,TID00021,CID6821,1976,Débit,Investissement,85,43,Réussie,France
+2023-01-22,TID00022,CID9400,1667,Crédit,Investissement,109,8,échouée,USA
+2023-01-23,TID00023,CID4193,1591,Virement,Ãpargne,83,42,échouée,USA
+2023-01-24,TID00024,CID9458,922,Crédit,Courant,98,3,En attente,France
+2023-01-25,TID00025,CID7016,3502,Virement,Courant,102,18,En attente,Allemagne
+2023-01-26,TID00026,CID7970,2626,Débit,Investissement,90,3,En attente,Australie
+2023-01-27,TID00027,CID4574,4090,Débit,Courant,85,50,En attente,France
+2023-01-28,TID00028,CID9383,585,Débit,Courant,100,4,échouée,Allemagne
+2023-01-29,TID00029,CID9840,3220,Virement,Investissement,88,8,En attente,Australie
+2023-01-30,TID00030,CID5421,3987,Débit,Ãpargne,83,6,Réussie,France
+2023-01-31,TID00031,CID9368,3878,Virement,Investissement,94,32,En attente,Japon
+2023-02-01,TID00032,CID7710,1378,Crédit,Ãpargne,99,17,En attente,Allemagne
+2023-02-02,TID00033,CID5181,1946,Virement,Ãpargne,108,3,En attente,Japon
+2023-02-03,TID00034,CID7824,4855,Débit,Courant,88,1,En attente,Japon
+2023-02-04,TID00035,CID7957,4412,Crédit,Courant,85,21,échouée,France
+2023-02-05,TID00036,CID7431,1793,Crédit,Courant,102,47,Réussie,Japon
+2023-02-06,TID00037,CID7027,2947,Débit,Investissement,81,38,En attente,Canada
+2023-02-07,TID00038,CID4264,954,Débit,Ãpargne,91,26,Réussie,France
+2023-02-08,TID00039,CID3498,4637,Virement,Ãpargne,87,38,échouée,Allemagne
+2023-02-09,TID00040,CID1734,2908,Crédit,Investissement,119,30,échouée,Japon
+2023-02-10,TID00041,CID1894,4840,Crédit,Investissement,92,24,Réussie,France
+2023-02-11,TID00042,CID9865,3476,Débit,Ãpargne,119,36,échouée,Allemagne
+2023-02-12,TID00043,CID9625,2340,Débit,Courant,85,39,échouée,Australie
+2023-02-13,TID00044,CID4416,721,Virement,Ãpargne,115,45,échouée,Allemagne
+2023-02-14,TID00045,CID7836,2938,Débit,Investissement,89,5,Réussie,Allemagne
+2023-02-15,TID00046,CID2880,2217,Débit,Investissement,106,43,Réussie,USA
+2023-02-16,TID00047,CID7068,1332,Virement,Investissement,90,38,Réussie,USA
+2023-02-17,TID00048,CID5778,4689,Crédit,Ãpargne,85,6,Réussie,Australie
+2023-02-18,TID00049,CID9192,2468,Crédit,Investissement,118,47,En attente,Australie
+2023-02-19,TID00050,CID1870,3170,Débit,Ãpargne,120,42,Réussie,Canada
+2023-02-20,TID00051,CID8882,3601,Virement,Courant,114,23,En attente,USA
+2023-02-21,TID00052,CID1582,953,Débit,Courant,114,16,En attente,Allemagne
+2023-02-22,TID00053,CID9414,498,Débit,Investissement,86,14,échouée,Japon
+2023-02-23,TID00054,CID7284,328,Crédit,Ãpargne,119,17,échouée,Japon
+2023-02-24,TID00055,CID1171,2563,Crédit,Courant,84,34,En attente,Japon
+2023-02-25,TID00056,CID3217,1077,Débit,Ãpargne,111,4,En attente,Australie
+2023-02-26,TID00057,CID2276,3206,Crédit,Courant,86,2,En attente,France
+2023-02-27,TID00058,CID3101,921,Virement,Investissement,114,28,Réussie,Australie
+2023-02-28,TID00059,CID2283,407,Virement,Investissement,113,48,En attente,Canada
+2023-03-01,TID00060,CID1002,2046,Virement,Investissement,95,34,En attente,Allemagne
+2023-03-02,TID00061,CID6763,1408,Crédit,Courant,105,40,Réussie,Japon
+2023-03-03,TID00062,CID7166,4896,Crédit,Investissement,114,9,Réussie,Allemagne
+2023-03-04,TID00063,CID9522,1195,Crédit,Ãpargne,105,12,échouée,France
+2023-03-05,TID00064,CID4736,3122,Débit,Courant,107,19,échouée,Australie
+2023-03-06,TID00065,CID3305,4440,Crédit,Ãpargne,108,9,échouée,Japon
+2023-03-07,TID00066,CID6983,4249,Crédit,Ãpargne,111,34,En attente,Canada
+2023-03-08,TID00067,CID6019,2665,Débit,Ãpargne,90,45,Réussie,Japon
+2023-03-09,TID00068,CID2390,1033,Débit,Investissement,113,46,échouée,France
+2023-03-10,TID00069,CID7280,3238,Crédit,Courant,109,50,échouée,USA
+2023-03-11,TID00070,CID5535,2057,Virement,Investissement,90,49,échouée,Canada
+2023-03-12,TID00071,CID7711,1204,Virement,Courant,102,47,Réussie,Japon
+2023-03-13,TID00072,CID8917,1977,Crédit,Ãpargne,117,26,échouée,Allemagne
+2023-03-14,TID00073,CID8052,3036,Débit,Courant,106,47,Réussie,France
+2023-03-15,TID00074,CID3821,2238,Virement,Investissement,84,21,En attente,Australie
+2023-03-16,TID00075,CID2296,4347,Débit,Courant,108,8,Réussie,France
+2023-03-17,TID00076,CID6355,1134,Crédit,Investissement,118,42,échouée,USA
+2023-03-18,TID00077,CID7700,1718,Crédit,Ãpargne,93,19,échouée,Canada
+2023-03-19,TID00078,CID2778,1155,Crédit,Courant,104,28,En attente,France
+2023-03-20,TID00079,CID1285,3987,Virement,Investissement,93,45,Réussie,Japon
+2023-03-21,TID00080,CID3963,179,Débit,Ãpargne,91,17,Réussie,USA
+2023-03-22,TID00081,CID4943,77,Virement,Courant,106,45,Réussie,Allemagne
+2023-03-23,TID00082,CID7089,1797,Crédit,Investissement,98,31,échouée,France
+2023-03-24,TID00083,CID5042,1100,Virement,Ãpargne,104,43,En attente,Canada
+2023-03-25,TID00084,CID5452,2090,Virement,Courant,93,27,En attente,Canada
+2023-03-26,TID00085,CID2996,4150,Virement,Investissement,104,27,échouée,Allemagne
+2023-03-27,TID00086,CID4611,1072,Débit,Ãpargne,84,4,En attente,Australie
+2023-03-28,TID00087,CID6913,526,Débit,Courant,103,44,échouée,USA
+2023-03-29,TID00088,CID3784,2763,Crédit,Ãpargne,87,21,Réussie,Australie
+2023-03-30,TID00089,CID9565,480,Crédit,Courant,102,31,Réussie,France
+2023-03-31,TID00090,CID2398,2707,Crédit,Courant,119,26,Réussie,France
+2023-04-01,TID00091,CID1592,2729,Débit,Ãpargne,90,26,Réussie,Japon
+2023-04-02,TID00092,CID5639,1049,Crédit,Ãpargne,114,25,échouée,Australie
+2023-04-03,TID00093,CID2276,3565,Virement,Ãpargne,98,47,En attente,Canada
+2023-04-04,TID00094,CID8578,2634,Virement,Ãpargne,104,16,En attente,Canada
+2023-04-05,TID00095,CID2336,1252,Débit,Investissement,93,31,En attente,France
+2023-04-06,TID00096,CID9458,1575,Crédit,Ãpargne,85,39,Réussie,Australie
+2023-04-07,TID00097,CID8420,4127,Crédit,Investissement,106,18,En attente,Canada
+2023-04-08,TID00098,CID7928,3973,Débit,Courant,113,9,Réussie,France
+2023-04-09,TID00099,CID9142,4690,Virement,Courant,114,41,Réussie,Canada
+2023-04-10,TID00100,CID9012,4217,Débit,Ãpargne,98,39,échouée,Canada
+2023-04-11,TID00101,CID8236,4168,Virement,Courant,116,36,En attente,Australie
+2023-04-12,TID00102,CID6217,1399,Virement,Courant,82,23,En attente,USA
+2023-04-13,TID00103,CID5593,1685,Crédit,Ãpargne,94,8,En attente,France
+2023-04-14,TID00104,CID5850,1025,Crédit,Ãpargne,85,20,échouée,Canada
+2023-04-15,TID00105,CID3859,4565,Débit,Investissement,107,15,échouée,Australie
+2023-04-16,TID00106,CID6545,3919,Débit,Investissement,98,9,Réussie,Australie
+2023-04-17,TID00107,CID8698,1665,Crédit,Courant,103,10,Réussie,France
+2023-04-18,TID00108,CID6012,242,Débit,Courant,95,40,Réussie,Allemagne
+2023-04-19,TID00109,CID6262,2897,Virement,Investissement,111,15,En attente,USA
+2023-04-20,TID00110,CID4630,2939,Débit,Ãpargne,95,42,Réussie,Canada
+2023-04-21,TID00111,CID2696,1576,Virement,Investissement,93,19,En attente,Japon
+2023-04-22,TID00112,CID6116,1473,Débit,Courant,113,23,Réussie,Japon
+2023-04-23,TID00113,CID3547,4942,Virement,Ãpargne,81,13,En attente,Allemagne
+2023-04-24,TID00114,CID2889,3156,Virement,Investissement,101,37,En attente,Allemagne
+2023-04-25,TID00115,CID3328,3566,Crédit,Ãpargne,113,49,En attente,France
+2023-04-26,TID00116,CID8438,1675,Virement,Ãpargne,84,15,En attente,Allemagne
+2023-04-27,TID00117,CID2203,959,Virement,Ãpargne,103,7,échouée,Canada
+2023-04-28,TID00118,CID8952,2602,Débit,Ãpargne,81,39,En attente,France
+2023-04-29,TID00119,CID5233,3911,Virement,Courant,101,23,échouée,Australie
+2023-04-30,TID00120,CID1005,4384,Virement,Ãpargne,83,20,En attente,France
+2023-05-01,TID00121,CID3976,1674,Crédit,Courant,86,24,échouée,Allemagne
+2023-05-02,TID00122,CID2946,4132,Crédit,Ãpargne,95,16,échouée,Japon
+2023-05-03,TID00123,CID1347,2839,Crédit,Courant,115,19,échouée,Japon
+2023-05-04,TID00124,CID4305,2491,Débit,Ãpargne,93,41,échouée,Canada
+2023-05-05,TID00125,CID6767,4118,Virement,Courant,84,36,échouée,France
+2023-05-06,TID00126,CID2898,4659,Crédit,Courant,115,48,Réussie,Australie
+2023-05-07,TID00127,CID3737,4116,Virement,Courant,96,13,En attente,Canada
+2023-05-08,TID00128,CID8370,3373,Débit,Investissement,113,24,En attente,Canada
+2023-05-09,TID00129,CID8463,369,Virement,Ãpargne,82,14,Réussie,France
+2023-05-10,TID00130,CID9078,885,Virement,Courant,104,5,échouée,USA
+2023-05-11,TID00131,CID1667,461,Virement,Courant,108,20,Réussie,France
+2023-05-12,TID00132,CID8911,845,Virement,Courant,113,15,échouée,Canada
+2023-05-13,TID00133,CID5740,4981,Débit,Investissement,91,12,En attente,France
+2023-05-14,TID00134,CID9882,94,Virement,Courant,80,27,échouée,Japon
+2023-05-15,TID00135,CID9360,4301,Débit,Investissement,84,1,Réussie,Allemagne
+2023-05-16,TID00136,CID8975,3077,Débit,Ãpargne,81,33,échouée,USA
+2023-05-17,TID00137,CID1624,1605,Débit,Investissement,107,19,En attente,Canada
+2023-05-18,TID00138,CID3541,1582,Débit,Courant,109,45,En attente,France
+2023-05-19,TID00139,CID3197,2343,Débit,Investissement,91,36,échouée,Australie
+2023-05-20,TID00140,CID2017,2196,Débit,Ãpargne,85,35,En attente,France
+2023-05-21,TID00141,CID3271,4480,Virement,Courant,99,28,échouée,Canada
+2023-05-22,TID00142,CID6489,210,Crédit,Courant,101,29,En attente,Australie
+2023-05-23,TID00143,CID4422,4626,Crédit,Courant,116,47,échouée,Japon
+2023-05-24,TID00144,CID4552,1226,Débit,Investissement,86,6,échouée,France
+2023-05-25,TID00145,CID6428,4167,Débit,Ãpargne,109,10,échouée,France
+2023-05-26,TID00146,CID8326,446,Crédit,Investissement,101,50,Réussie,USA
+2023-05-27,TID00147,CID4559,3610,Virement,Courant,97,24,Réussie,Japon
+2023-05-28,TID00148,CID8986,216,Crédit,Investissement,117,19,Réussie,France
+2023-05-29,TID00149,CID4272,1219,Crédit,Ãpargne,90,22,En attente,France
+2023-05-30,TID00150,CID2180,2438,Débit,Investissement,112,46,échouée,USA
+2023-05-31,TID00151,CID8742,2385,Débit,Investissement,117,34,échouée,USA
+2023-06-01,TID00152,CID9582,3274,Virement,Courant,111,20,échouée,Australie
+2023-06-02,TID00153,CID1099,441,Crédit,Investissement,96,1,échouée,Japon
+2023-06-03,TID00154,CID5351,632,Crédit,Investissement,86,21,En attente,Canada
+2023-06-04,TID00155,CID8684,271,Crédit,Ãpargne,112,38,Réussie,Japon
+2023-06-05,TID00156,CID9254,4615,Crédit,Investissement,92,14,En attente,USA
+2023-06-06,TID00157,CID9658,2687,Débit,Investissement,111,26,En attente,Australie
+2023-06-07,TID00158,CID4916,4345,Débit,Courant,80,22,Réussie,France
+2023-06-08,TID00159,CID4563,1607,Virement,Ãpargne,95,17,Réussie,Japon
+2023-06-09,TID00160,CID3116,465,Crédit,Courant,106,36,En attente,Allemagne
+2023-06-10,TID00161,CID1814,2382,Crédit,Ãpargne,95,32,échouée,Allemagne
+2023-06-11,TID00162,CID2790,3279,Débit,Investissement,103,7,échouée,Allemagne
+2023-06-12,TID00163,CID8669,4849,Virement,Investissement,111,29,Réussie,Allemagne
+2023-06-13,TID00164,CID7623,221,Crédit,Ãpargne,102,26,En attente,France
+2023-06-14,TID00165,CID7934,814,Virement,Investissement,102,46,échouée,Japon
+2023-06-15,TID00166,CID9676,1012,Crédit,Courant,91,20,En attente,Allemagne
+2023-06-16,TID00167,CID9739,1806,Débit,Investissement,106,26,Réussie,Japon
+2023-06-17,TID00168,CID4220,3876,Virement,Investissement,109,23,échouée,Japon
+2023-06-18,TID00169,CID4952,3115,Virement,Ãpargne,96,46,En attente,France
+2023-06-19,TID00170,CID3836,1688,Virement,Ãpargne,100,46,échouée,Australie
+2023-06-20,TID00171,CID1713,891,Débit,Ãpargne,99,3,Réussie,Japon
+2023-06-21,TID00172,CID6333,150,Débit,Ãpargne,94,21,Réussie,France
+2023-06-22,TID00173,CID2424,733,Débit,Investissement,95,27,échouée,Japon
+2023-06-23,TID00174,CID6173,3027,Crédit,Courant,111,15,échouée,USA
+2023-06-24,TID00175,CID8067,732,Virement,Courant,110,29,Réussie,Canada
+2023-06-25,TID00176,CID4441,4475,Crédit,Ãpargne,103,12,Réussie,USA
+2023-06-26,TID00177,CID4781,571,Virement,Ãpargne,108,23,Réussie,Canada
+2023-06-27,TID00178,CID9487,1964,Crédit,Ãpargne,114,44,En attente,France
+2023-06-28,TID00179,CID2771,2835,Débit,Ãpargne,92,49,échouée,USA
+2023-06-29,TID00180,CID5530,4605,Débit,Investissement,94,17,Réussie,Australie
+2023-06-30,TID00181,CID4762,49,Crédit,Courant,104,1,En attente,France
+2023-07-01,TID00182,CID5000,947,Débit,Courant,100,37,En attente,Australie
+2023-07-02,TID00183,CID5569,3788,Virement,Investissement,107,1,Réussie,USA
+2023-07-03,TID00184,CID6353,2725,Débit,Ãpargne,110,45,En attente,Canada
+2023-07-04,TID00185,CID6257,4430,Débit,Courant,111,18,Réussie,Japon
+2023-07-05,TID00186,CID3358,2461,Virement,Investissement,115,21,échouée,Australie
+2023-07-06,TID00187,CID6551,2380,Crédit,Ãpargne,91,33,échouée,Allemagne
+2023-07-07,TID00188,CID6167,3068,Crédit,Investissement,95,44,En attente,Canada
+2023-07-08,TID00189,CID8350,2719,Virement,Investissement,112,10,échouée,Australie
+2023-07-09,TID00190,CID1172,3258,Crédit,Courant,92,42,En attente,Australie
+2023-07-10,TID00191,CID9555,785,Virement,Courant,97,8,échouée,Australie
+2023-07-11,TID00192,CID9297,3988,Virement,Investissement,105,42,En attente,Japon
+2023-07-12,TID00193,CID9081,539,Débit,Ãpargne,108,40,Réussie,France
+2023-07-13,TID00194,CID2374,1244,Débit,Ãpargne,98,3,Réussie,Canada
+2023-07-14,TID00195,CID6838,4289,Virement,Investissement,81,41,En attente,USA
+2023-07-15,TID00196,CID5702,2544,Crédit,Courant,91,29,En attente,France
+2023-07-16,TID00197,CID9732,4634,Crédit,Ãpargne,80,18,échouée,Canada
+2023-07-17,TID00198,CID4148,1204,Virement,Investissement,88,20,En attente,USA
+2023-07-18,TID00199,CID9780,3752,Crédit,Courant,117,30,En attente,France
+2023-07-19,TID00200,CID7085,3944,Débit,Courant,115,42,échouée,USA
+2023-07-20,TID00201,CID2235,1900,Crédit,Courant,99,0,En attente,USA
+2023-07-21,TID00202,CID2809,1533,Virement,Investissement,81,18,échouée,Canada
+2023-07-22,TID00203,CID5071,4946,Virement,Ãpargne,113,22,En attente,Allemagne
+2023-07-23,TID00204,CID8952,1858,Crédit,Ãpargne,103,38,Réussie,Canada
+2023-07-24,TID00205,CID4850,1180,Débit,Investissement,89,16,échouée,Canada
+2023-07-25,TID00206,CID5966,906,Virement,Ãpargne,107,46,Réussie,USA
+2023-07-26,TID00207,CID7469,2018,Débit,Investissement,94,21,En attente,Canada
+2023-07-27,TID00208,CID3425,4817,Débit,Investissement,116,19,échouée,USA
+2023-07-28,TID00209,CID8772,4094,Crédit,Ãpargne,112,22,échouée,USA
+2023-07-29,TID00210,CID7926,3882,Virement,Ãpargne,94,20,Réussie,Allemagne
+2023-07-30,TID00211,CID1511,4983,Débit,Ãpargne,81,22,En attente,Japon
+2023-07-31,TID00212,CID2605,2027,Débit,Investissement,105,36,échouée,Canada
+2023-08-01,TID00213,CID6416,1668,Débit,Investissement,92,2,échouée,Japon
+2023-08-02,TID00214,CID1132,4380,Crédit,Investissement,111,24,échouée,USA
+2023-08-03,TID00215,CID8607,3008,Virement,Courant,113,24,En attente,Japon
+2023-08-04,TID00216,CID2247,3508,Virement,Ãpargne,93,26,En attente,Australie
+2023-08-05,TID00217,CID7250,3534,Virement,Courant,100,0,Réussie,USA
+2023-08-06,TID00218,CID6962,4358,Débit,Investissement,118,45,échouée,USA
+2023-08-07,TID00219,CID9329,1341,Débit,Ãpargne,119,11,échouée,Canada
+2023-08-08,TID00220,CID8034,4067,Virement,Investissement,103,27,En attente,France
+2023-08-09,TID00221,CID2055,2963,Débit,Investissement,81,28,échouée,Japon
+2023-08-10,TID00222,CID7924,4846,Crédit,Investissement,93,33,En attente,Allemagne
+2023-08-11,TID00223,CID5172,908,Débit,Investissement,105,31,échouée,France
+2023-08-12,TID00224,CID9957,2109,Débit,Courant,81,17,Réussie,France
+2023-08-13,TID00225,CID3149,4585,Débit,Ãpargne,103,22,En attente,Allemagne
+2023-08-14,TID00226,CID9363,3834,Virement,Courant,86,44,En attente,USA
+2023-08-15,TID00227,CID1166,4245,Crédit,Ãpargne,104,25,échouée,Canada
+2023-08-16,TID00228,CID6547,4572,Crédit,Courant,120,45,Réussie,Allemagne
+2023-08-17,TID00229,CID2986,4776,Débit,Courant,119,42,Réussie,Australie
+2023-08-18,TID00230,CID4509,4233,Virement,Investissement,82,6,En attente,USA
+2023-08-19,TID00231,CID5094,2326,Débit,Ãpargne,82,47,En attente,France
+2023-08-20,TID00232,CID8689,4965,Crédit,Courant,117,5,En attente,Canada
+2023-08-21,TID00233,CID5274,2456,Crédit,Courant,109,39,Réussie,Japon
+2023-08-22,TID00234,CID1362,4476,Virement,Courant,105,43,En attente,France
+2023-08-23,TID00235,CID3084,2760,Virement,Investissement,115,25,Réussie,Australie
+2023-08-24,TID00236,CID2951,288,Crédit,Courant,96,29,En attente,Allemagne
+2023-08-25,TID00237,CID4666,1627,Virement,Ãpargne,87,26,échouée,France
+2023-08-26,TID00238,CID4385,4474,Crédit,Ãpargne,112,8,Réussie,Australie
+2023-08-27,TID00239,CID3536,3422,Débit,Investissement,107,38,échouée,Japon
+2023-08-28,TID00240,CID7803,760,Débit,Ãpargne,108,3,échouée,USA
+2023-08-29,TID00241,CID8358,3739,Virement,Investissement,111,2,En attente,Allemagne
+2023-08-30,TID00242,CID2549,130,Crédit,Investissement,111,23,Réussie,France
+2023-08-31,TID00243,CID1473,1965,Virement,Ãpargne,99,14,En attente,Japon
+2023-09-01,TID00244,CID9360,4923,Débit,Investissement,99,43,En attente,USA
+2023-09-02,TID00245,CID8549,2008,Débit,Ãpargne,85,40,En attente,USA
+2023-09-03,TID00246,CID7644,1710,Virement,Ãpargne,100,37,Réussie,Japon
+2023-09-04,TID00247,CID9714,4155,Virement,Courant,89,13,En attente,France
+2023-09-05,TID00248,CID1798,2764,Débit,Courant,87,14,échouée,France
+2023-09-06,TID00249,CID5925,1169,Débit,Ãpargne,94,44,Réussie,USA
+2023-09-07,TID00250,CID7893,2828,Crédit,Courant,97,26,Réussie,USA
+2023-09-08,TID00251,CID3190,2322,Virement,Courant,108,19,En attente,Japon
+2023-09-09,TID00252,CID8939,3265,Débit,Ãpargne,111,44,En attente,USA
+2023-09-10,TID00253,CID1823,3508,Virement,Ãpargne,86,9,En attente,Canada
+2023-09-11,TID00254,CID1653,4566,Débit,Ãpargne,114,49,échouée,Australie
+2023-09-12,TID00255,CID2408,3083,Crédit,Ãpargne,97,34,Réussie,Australie
+2023-09-13,TID00256,CID5343,643,Crédit,Courant,96,7,échouée,Canada
+2023-09-14,TID00257,CID2003,4417,Virement,Ãpargne,100,49,En attente,Australie
+2023-09-15,TID00258,CID9044,2308,Virement,Courant,84,22,Réussie,Japon
+2023-09-16,TID00259,CID6231,2586,Virement,Courant,110,20,Réussie,Allemagne
+2023-09-17,TID00260,CID4374,2118,Virement,Courant,120,17,En attente,USA
+2023-09-18,TID00261,CID3568,2530,Débit,Courant,105,41,Réussie,Japon
+2023-09-19,TID00262,CID1970,2338,Débit,Ãpargne,113,16,échouée,Australie
+2023-09-20,TID00263,CID8737,1499,Débit,Investissement,100,27,En attente,Canada
+2023-09-21,TID00264,CID2859,2872,Virement,Investissement,118,23,Réussie,USA
+2023-09-22,TID00265,CID6261,4796,Débit,Investissement,112,32,échouée,Australie
+2023-09-23,TID00266,CID8930,4117,Crédit,Ãpargne,107,22,Réussie,Japon
+2023-09-24,TID00267,CID8780,534,Débit,Ãpargne,101,22,En attente,Australie
+2023-09-25,TID00268,CID1568,54,Virement,Courant,109,25,Réussie,Canada
+2023-09-26,TID00269,CID8391,117,Crédit,Courant,102,17,Réussie,USA
+2023-09-27,TID00270,CID9316,4539,Crédit,Courant,100,10,En attente,Allemagne
+2023-09-28,TID00271,CID5144,296,Crédit,Ãpargne,107,6,échouée,Japon
+2023-09-29,TID00272,CID9794,3173,Virement,Ãpargne,80,7,Réussie,France
+2023-09-30,TID00273,CID4018,307,Débit,Investissement,96,14,Réussie,USA
+2023-10-01,TID00274,CID2291,2348,Virement,Ãpargne,87,45,Réussie,Australie
+2023-10-02,TID00275,CID6006,1488,Débit,Courant,82,31,En attente,Australie
+2023-10-03,TID00276,CID1423,2270,Débit,Ãpargne,110,47,échouée,Allemagne
+2023-10-04,TID00277,CID6412,974,Débit,Investissement,93,42,En attente,Allemagne
+2023-10-05,TID00278,CID4618,661,Débit,Ãpargne,89,46,échouée,Australie
+2023-10-06,TID00279,CID2913,2217,Crédit,Courant,112,36,En attente,France
+2023-10-07,TID00280,CID3111,1888,Débit,Ãpargne,93,25,échouée,USA
+2023-10-08,TID00281,CID9123,1662,Crédit,Courant,100,48,En attente,Allemagne
+2023-10-09,TID00282,CID1080,3975,Débit,Courant,92,8,Réussie,Allemagne
+2023-10-10,TID00283,CID9529,4340,Débit,Courant,109,24,Réussie,Canada
+2023-10-11,TID00284,CID7635,1366,Crédit,Courant,93,27,En attente,Australie
+2023-10-12,TID00285,CID2949,475,Crédit,Courant,111,50,échouée,Japon
+2023-10-13,TID00286,CID8474,2216,Crédit,Ãpargne,80,47,échouée,Japon
+2023-10-14,TID00287,CID9490,378,Débit,Investissement,107,18,En attente,Canada
+2023-10-15,TID00288,CID2254,4173,Débit,Investissement,91,11,En attente,Canada
+2023-10-16,TID00289,CID7615,1253,Crédit,Investissement,106,36,Réussie,Canada
+2023-10-17,TID00290,CID2799,2466,Débit,Investissement,94,20,Réussie,Canada
+2023-10-18,TID00291,CID8596,2642,Crédit,Ãpargne,92,47,En attente,Canada
+2023-10-19,TID00292,CID6512,2888,Virement,Courant,80,13,En attente,USA
+2023-10-20,TID00293,CID1304,1860,Crédit,Investissement,97,38,échouée,USA
+2023-10-21,TID00294,CID5915,4961,Crédit,Ãpargne,120,49,En attente,Japon
+2023-10-22,TID00295,CID9043,3213,Crédit,Investissement,105,49,En attente,Japon
+2023-10-23,TID00296,CID1000,207,Virement,Ãpargne,83,6,échouée,Canada
+2023-10-24,TID00297,CID9197,126,Débit,Investissement,108,11,En attente,Japon
+2023-10-25,TID00298,CID8666,431,Débit,Investissement,108,48,Réussie,USA
+2023-10-26,TID00299,CID1651,1368,Virement,Investissement,90,14,Réussie,Australie
+2023-10-27,TID00300,CID5117,1000,Débit,Ãpargne,113,19,En attente,USA
+2023-10-28,TID00301,CID1523,1949,Débit,Investissement,107,13,En attente,Allemagne
+2023-10-29,TID00302,CID5018,428,Crédit,Courant,119,49,En attente,Australie
+2023-10-30,TID00303,CID1122,1228,Crédit,Courant,81,34,Réussie,USA
+2023-10-31,TID00304,CID7171,4365,Débit,Ãpargne,108,34,Réussie,France
+2023-11-01,TID00305,CID9596,2892,Virement,Investissement,86,15,En attente,Allemagne
+2023-11-02,TID00306,CID2519,3285,Virement,Ãpargne,115,11,En attente,Canada
+2023-11-03,TID00307,CID9588,2133,Virement,Courant,99,0,Réussie,Canada
+2023-11-04,TID00308,CID2875,314,Virement,Courant,119,28,Réussie,Japon
+2023-11-05,TID00309,CID7103,2552,Crédit,Investissement,114,43,échouée,Australie
+2023-11-06,TID00310,CID4623,4998,Crédit,Investissement,85,36,échouée,Australie
+2023-11-07,TID00311,CID6305,4245,Débit,Investissement,96,47,Réussie,France
+2023-11-08,TID00312,CID4005,3477,Débit,Ãpargne,106,21,Réussie,Allemagne
+2023-11-09,TID00313,CID2576,1522,Crédit,Investissement,81,24,En attente,USA
+2023-11-10,TID00314,CID4912,466,Crédit,Courant,89,48,Réussie,Japon
+2023-11-11,TID00315,CID7029,1455,Virement,Courant,95,21,Réussie,USA
+2023-11-12,TID00316,CID2748,2986,Crédit,Courant,92,2,Réussie,USA
+2023-11-13,TID00317,CID6564,4372,Débit,Ãpargne,108,2,Réussie,France
+2023-11-14,TID00318,CID6117,817,Crédit,Investissement,111,38,En attente,Canada
+2023-11-15,TID00319,CID2018,1797,Virement,Courant,95,20,Réussie,Japon
+2023-11-16,TID00320,CID1866,2273,Virement,Investissement,106,41,Réussie,Canada
+2023-11-17,TID00321,CID6188,4810,Virement,Courant,119,17,échouée,Japon
+2023-11-18,TID00322,CID9965,2563,Débit,Investissement,86,40,En attente,USA
+2023-11-19,TID00323,CID6972,1423,Débit,Investissement,98,3,échouée,Canada
+2023-11-20,TID00324,CID1325,1512,Crédit,Investissement,117,33,échouée,Canada
+2023-11-21,TID00325,CID6146,447,Crédit,Ãpargne,117,15,Réussie,Japon
+2023-11-22,TID00326,CID6326,1558,Virement,Ãpargne,88,36,Réussie,Allemagne
+2023-11-23,TID00327,CID3669,1516,Débit,Investissement,90,28,En attente,France
+2023-11-24,TID00328,CID2809,4778,Virement,Ãpargne,110,7,échouée,USA
+2023-11-25,TID00329,CID1618,3257,Crédit,Courant,98,12,Réussie,Japon
+2023-11-26,TID00330,CID1310,4291,Virement,Ãpargne,103,11,Réussie,Allemagne
+2023-11-27,TID00331,CID2604,3139,Débit,Investissement,86,48,échouée,Japon
+2023-11-28,TID00332,CID1949,1317,Débit,Ãpargne,88,24,En attente,Canada
+2023-11-29,TID00333,CID2937,4959,Débit,Courant,93,22,échouée,USA
+2023-11-30,TID00334,CID1209,51,Crédit,Courant,103,12,échouée,USA
+2023-12-01,TID00335,CID8621,765,Virement,Ãpargne,92,41,échouée,Allemagne
+2023-12-02,TID00336,CID1520,2837,Virement,Courant,117,35,échouée,USA
+2023-12-03,TID00337,CID6639,1779,Virement,Courant,111,36,échouée,Japon
+2023-12-04,TID00338,CID5837,2396,Virement,Ãpargne,80,23,Réussie,Allemagne
+2023-12-05,TID00339,CID5126,814,Virement,Ãpargne,102,28,échouée,Canada
+2023-12-06,TID00340,CID3094,3613,Virement,Investissement,106,38,En attente,Canada
+2023-12-07,TID00341,CID3596,3152,Virement,Investissement,110,10,Réussie,Allemagne
+2023-12-08,TID00342,CID6852,2570,Débit,Ãpargne,99,36,En attente,Japon
+2023-12-09,TID00343,CID8942,977,Virement,Ãpargne,117,6,En attente,Canada
+2023-12-10,TID00344,CID9791,581,Crédit,Courant,106,15,échouée,Allemagne
+2023-12-11,TID00345,CID3647,1172,Crédit,Courant,98,7,En attente,France
+2023-12-12,TID00346,CID4062,2112,Virement,Investissement,110,10,échouée,Allemagne
+2023-12-13,TID00347,CID8082,383,Débit,Ãpargne,88,22,échouée,USA
+2023-12-14,TID00348,CID1812,4788,Crédit,Investissement,94,48,échouée,Australie
+2023-12-15,TID00349,CID4080,736,Débit,Courant,101,30,En attente,Japon
+2023-12-16,TID00350,CID1311,938,Crédit,Courant,83,24,Réussie,USA
+2023-12-17,TID00351,CID6875,900,Débit,Investissement,101,13,En attente,Canada
+2023-12-18,TID00352,CID2431,4391,Crédit,Ãpargne,105,45,En attente,Allemagne
+2023-12-19,TID00353,CID8997,116,Crédit,Ãpargne,81,28,échouée,Japon
+2023-12-20,TID00354,CID2850,1388,Débit,Investissement,101,1,échouée,Japon
+2023-12-21,TID00355,CID5480,2321,Débit,Ãpargne,80,47,Réussie,France
+2023-12-22,TID00356,CID3731,4979,Virement,Courant,90,44,échouée,France
+2023-12-23,TID00357,CID1774,3026,Crédit,Courant,83,33,En attente,Japon
+2023-12-24,TID00358,CID6618,3465,Débit,Investissement,113,20,En attente,Japon
+2023-12-25,TID00359,CID7507,2317,Débit,Ãpargne,89,17,échouée,Allemagne
+2023-12-26,TID00360,CID6781,4759,Virement,Courant,103,43,En attente,Japon
+2023-12-27,TID00361,CID7972,996,Virement,Ãpargne,90,20,échouée,France
+2023-12-28,TID00362,CID1253,1540,Virement,Courant,82,20,En attente,USA
+2023-12-29,TID00363,CID7455,3298,Virement,Courant,98,40,échouée,Allemagne
+2023-12-30,TID00364,CID4991,4453,Virement,Ãpargne,95,46,Réussie,Japon
+2023-12-31,TID00365,CID1190,1486,Virement,Courant,118,37,Réussie,Allemagne
+2024-01-01,TID00366,CID1324,3925,Débit,Investissement,113,20,En attente,Canada
+2024-01-02,TID00367,CID1069,3045,Débit,Investissement,96,48,Réussie,Allemagne
+2024-01-03,TID00368,CID1321,3484,Débit,Investissement,97,20,En attente,Australie
+2024-01-04,TID00369,CID3325,2761,Débit,Ãpargne,86,24,échouée,Australie
+2024-01-05,TID00370,CID5017,1812,Crédit,Ãpargne,92,11,En attente,Allemagne
+2024-01-06,TID00371,CID2835,2951,Débit,Ãpargne,110,24,échouée,France
+2024-01-07,TID00372,CID4858,3600,Débit,Courant,116,44,Réussie,Allemagne
+2024-01-08,TID00373,CID9747,535,Virement,Investissement,100,34,échouée,France
+2024-01-09,TID00374,CID2071,3231,Crédit,Ãpargne,115,0,échouée,Canada
+2024-01-10,TID00375,CID9877,2277,Virement,Investissement,89,5,échouée,Australie
+2024-01-11,TID00376,CID6256,3256,Virement,Investissement,83,23,échouée,Australie
+2024-01-12,TID00377,CID8402,94,Débit,Investissement,84,46,échouée,Australie
+2024-01-13,TID00378,CID4895,2125,Débit,Courant,102,27,Réussie,Canada
+2024-01-14,TID00379,CID6606,4700,Débit,Ãpargne,119,37,échouée,Japon
+2024-01-15,TID00380,CID3783,2945,Virement,Investissement,104,36,En attente,France
+2024-01-16,TID00381,CID9693,3145,Crédit,Investissement,103,10,échouée,Canada
+2024-01-17,TID00382,CID8959,4850,Virement,Ãpargne,116,42,En attente,Australie
+2024-01-18,TID00383,CID5403,2500,Virement,Ãpargne,115,13,échouée,France
+2024-01-19,TID00384,CID5746,316,Débit,Ãpargne,115,18,En attente,Japon
+2024-01-20,TID00385,CID9895,3592,Débit,Investissement,120,24,échouée,USA
+2024-01-21,TID00386,CID2158,4402,Crédit,Investissement,81,6,Réussie,France
+2024-01-22,TID00387,CID2461,1539,Débit,Courant,96,17,échouée,Australie
+2024-01-23,TID00388,CID9188,168,Débit,Courant,114,35,En attente,Allemagne
+2024-01-24,TID00389,CID6724,3126,Débit,Courant,89,20,Réussie,Canada
+2024-01-25,TID00390,CID5428,3753,Débit,Ãpargne,115,35,Réussie,France
+2024-01-26,TID00391,CID9949,1699,Crédit,Courant,110,32,échouée,Australie
+2024-01-27,TID00392,CID5179,4187,Débit,Courant,84,19,échouée,USA
+2024-01-28,TID00393,CID5315,1682,Crédit,Courant,100,48,En attente,Japon
+2024-01-29,TID00394,CID8600,1857,Virement,Investissement,109,18,En attente,Japon
+2024-01-30,TID00395,CID9473,3899,Virement,Ãpargne,80,37,Réussie,Japon
+2024-01-31,TID00396,CID8401,3003,Virement,Investissement,84,4,En attente,USA
+2024-02-01,TID00397,CID9442,4438,Crédit,Ãpargne,111,25,Réussie,Japon
+2024-02-02,TID00398,CID1880,4750,Virement,Ãpargne,98,4,Réussie,Allemagne
+2024-02-03,TID00399,CID3510,343,Virement,Ãpargne,108,2,Réussie,Australie
+2024-02-04,TID00400,CID6567,20,Crédit,Courant,106,48,échouée,Allemagne
+2024-02-05,TID00401,CID3634,4853,Crédit,Investissement,92,28,Réussie,Allemagne
+2024-02-06,TID00402,CID5343,155,Débit,Ãpargne,103,42,Réussie,Canada
+2024-02-07,TID00403,CID1474,677,Débit,Ãpargne,117,22,Réussie,Japon
+2024-02-08,TID00404,CID6003,4696,Virement,Ãpargne,86,27,En attente,USA
+2024-02-09,TID00405,CID5085,2705,Crédit,Ãpargne,103,43,En attente,Canada
+2024-02-10,TID00406,CID9288,2424,Débit,Courant,109,7,En attente,Australie
+2024-02-11,TID00407,CID7749,1941,Débit,Investissement,100,39,échouée,Japon
+2024-02-12,TID00408,CID1944,1879,Crédit,Courant,81,33,En attente,Allemagne
+2024-02-13,TID00409,CID3916,2091,Crédit,Courant,89,9,Réussie,Allemagne
+2024-02-14,TID00410,CID3545,1221,Virement,Courant,101,21,Réussie,Japon
+2024-02-15,TID00411,CID3433,2930,Débit,Courant,99,16,Réussie,Australie
+2024-02-16,TID00412,CID1393,2421,Crédit,Investissement,97,22,échouée,USA
+2024-02-17,TID00413,CID6783,3233,Virement,Investissement,95,45,Réussie,Allemagne
+2024-02-18,TID00414,CID2492,4277,Virement,Investissement,116,48,Réussie,Allemagne
+2024-02-19,TID00415,CID9257,4562,Crédit,Investissement,100,16,En attente,Japon
+2024-02-20,TID00416,CID4408,3726,Débit,Investissement,117,11,échouée,Allemagne
+2024-02-21,TID00417,CID7141,265,Débit,Ãpargne,80,32,Réussie,France
+2024-02-22,TID00418,CID5970,1846,Crédit,Investissement,95,38,En attente,Canada
+2024-02-23,TID00419,CID3146,4485,Virement,Courant,88,16,échouée,Canada
+2024-02-24,TID00420,CID3939,1710,Virement,Investissement,102,31,En attente,Allemagne
+2024-02-25,TID00421,CID6594,349,Débit,Courant,112,4,échouée,Allemagne
+2024-02-26,TID00422,CID3863,2662,Crédit,Ãpargne,117,36,Réussie,USA
+2024-02-27,TID00423,CID3144,963,Débit,Courant,113,34,échouée,Canada
+2024-02-28,TID00424,CID3008,551,Débit,Investissement,84,46,Réussie,Japon
+2024-02-29,TID00425,CID2984,2805,Crédit,Ãpargne,91,14,Réussie,France
+2024-03-01,TID00426,CID2855,1481,Crédit,Ãpargne,83,32,Réussie,France
+2024-03-02,TID00427,CID9315,3430,Virement,Ãpargne,110,35,En attente,Australie
+2024-03-03,TID00428,CID5882,3232,Crédit,Ãpargne,87,41,En attente,Japon
+2024-03-04,TID00429,CID3909,2666,Virement,Ãpargne,119,33,échouée,Allemagne
+2024-03-05,TID00430,CID5873,2109,Virement,Investissement,80,39,Réussie,Japon
+2024-03-06,TID00431,CID6547,1555,Débit,Investissement,84,11,En attente,Japon
+2024-03-07,TID00432,CID3516,1957,Débit,Ãpargne,89,11,Réussie,Canada
+2024-03-08,TID00433,CID9708,499,Débit,Courant,115,38,En attente,Canada
+2024-03-09,TID00434,CID5971,371,Crédit,Investissement,89,50,échouée,USA
+2024-03-10,TID00435,CID2346,2291,Débit,Investissement,115,4,échouée,Japon
+2024-03-11,TID00436,CID7011,1522,Crédit,Courant,83,29,En attente,Canada
+2024-03-12,TID00437,CID5809,1345,Virement,Ãpargne,84,49,Réussie,Canada
+2024-03-13,TID00438,CID7598,1972,Débit,Investissement,113,6,échouée,Canada
+2024-03-14,TID00439,CID7060,546,Virement,Investissement,106,2,échouée,Canada
+2024-03-15,TID00440,CID7391,536,Crédit,Ãpargne,86,13,En attente,France
+2024-03-16,TID00441,CID6999,4762,Crédit,Investissement,90,39,En attente,Canada
+2024-03-17,TID00442,CID1659,1041,Crédit,Ãpargne,114,35,échouée,France
+2024-03-18,TID00443,CID9852,4005,Crédit,Courant,116,35,Réussie,Australie
+2024-03-19,TID00444,CID8872,2433,Crédit,Courant,83,17,En attente,Australie
+2024-03-20,TID00445,CID4268,2305,Virement,Investissement,110,18,En attente,USA
+2024-03-21,TID00446,CID7174,1199,Virement,Courant,96,48,Réussie,Japon
+2024-03-22,TID00447,CID2006,1537,Débit,Investissement,115,17,Réussie,Canada
+2024-03-23,TID00448,CID7058,2605,Crédit,Ãpargne,83,12,En attente,Allemagne
+2024-03-24,TID00449,CID7140,2987,Débit,Investissement,88,29,Réussie,France
+2024-03-25,TID00450,CID5915,2910,Crédit,Courant,114,31,Réussie,Allemagne
+2024-03-26,TID00451,CID4109,3316,Virement,Courant,89,21,En attente,Canada
+2024-03-27,TID00452,CID7824,4673,Crédit,Ãpargne,102,8,échouée,USA
+2024-03-28,TID00453,CID5949,4294,Débit,Ãpargne,120,6,échouée,USA
+2024-03-29,TID00454,CID8083,1306,Crédit,Ãpargne,117,23,échouée,France
+2024-03-30,TID00455,CID7965,2378,Crédit,Investissement,99,37,Réussie,France
+2024-03-31,TID00456,CID4243,4645,Débit,Ãpargne,107,2,Réussie,Allemagne
+2024-04-01,TID00457,CID6034,1681,Débit,Courant,102,16,échouée,Allemagne
+2024-04-02,TID00458,CID4650,1318,Virement,Investissement,92,8,échouée,France
+2024-04-03,TID00459,CID6145,799,Débit,Investissement,91,36,En attente,France
+2024-04-04,TID00460,CID9503,1471,Débit,Investissement,111,44,Réussie,France
+2024-04-05,TID00461,CID1596,2513,Virement,Ãpargne,96,8,En attente,Australie
+2024-04-06,TID00462,CID2911,1761,Crédit,Investissement,96,16,En attente,Allemagne
+2024-04-07,TID00463,CID5528,4628,Débit,Ãpargne,113,39,En attente,Australie
+2024-04-08,TID00464,CID5372,4003,Virement,Courant,111,27,En attente,USA
+2024-04-09,TID00465,CID2501,530,Virement,Investissement,109,23,échouée,Allemagne
+2024-04-10,TID00466,CID1086,3136,Crédit,Investissement,81,2,En attente,USA
+2024-04-11,TID00467,CID3860,777,Crédit,Investissement,112,3,En attente,France
+2024-04-12,TID00468,CID2620,467,Virement,Investissement,113,29,échouée,France
+2024-04-13,TID00469,CID5366,2794,Virement,Courant,83,13,En attente,France
+2024-04-14,TID00470,CID7397,1278,Débit,Ãpargne,81,48,En attente,Australie
+2024-04-15,TID00471,CID5036,4855,Crédit,Investissement,108,47,échouée,USA
+2024-04-16,TID00472,CID4364,4937,Débit,Courant,119,29,échouée,Canada
+2024-04-17,TID00473,CID5482,4257,Débit,Ãpargne,119,4,échouée,Japon
+2024-04-18,TID00474,CID6230,603,Virement,Investissement,119,12,échouée,Allemagne
+2024-04-19,TID00475,CID3714,2884,Virement,Ãpargne,115,27,échouée,Japon
+2024-04-20,TID00476,CID6520,1992,Virement,Investissement,102,36,En attente,France
+2024-04-21,TID00477,CID8671,3362,Crédit,Investissement,86,10,En attente,Canada
+2024-04-22,TID00478,CID7040,389,Débit,Investissement,81,16,échouée,France
+2024-04-23,TID00479,CID6221,2772,Crédit,Investissement,112,47,Réussie,Canada
+2024-04-24,TID00480,CID7315,2200,Débit,Investissement,82,17,Réussie,Australie
+2024-04-25,TID00481,CID6236,3109,Débit,Ãpargne,92,49,En attente,Australie
+2024-04-26,TID00482,CID5831,982,Débit,Investissement,110,10,échouée,Allemagne
+2024-04-27,TID00483,CID9286,3994,Débit,Courant,92,28,En attente,USA
+2024-04-28,TID00484,CID2355,3480,Virement,Ãpargne,104,49,Réussie,USA
+2024-04-29,TID00485,CID6908,1109,Débit,Courant,107,2,En attente,Australie
+2024-04-30,TID00486,CID2755,2792,Débit,Investissement,91,15,En attente,Japon
+2024-05-01,TID00487,CID9265,1627,Crédit,Courant,102,25,échouée,Canada
+2024-05-02,TID00488,CID9853,270,Crédit,Ãpargne,114,40,Réussie,France
+2024-05-03,TID00489,CID4998,3592,Crédit,Courant,105,43,En attente,Japon
+2024-05-04,TID00490,CID8191,242,Débit,Ãpargne,88,4,Réussie,Japon
+2024-05-05,TID00491,CID9394,160,Crédit,Ãpargne,82,36,Réussie,Canada
+2024-05-06,TID00492,CID5401,4420,Virement,Ãpargne,106,8,échouée,France
+2024-05-07,TID00493,CID1817,2106,Virement,Ãpargne,85,7,échouée,Canada
+2024-05-08,TID00494,CID2949,1353,Débit,Courant,83,25,Réussie,France
+2024-05-09,TID00495,CID3172,776,Crédit,Courant,84,20,Réussie,Allemagne
+2024-05-10,TID00496,CID9474,1380,Crédit,Courant,117,10,Réussie,USA
+2024-05-11,TID00497,CID9862,2959,Virement,Ãpargne,112,27,échouée,USA
+2024-05-12,TID00498,CID5823,3517,Crédit,Ãpargne,85,17,échouée,Japon
+2024-05-13,TID00499,CID3929,514,Débit,Investissement,105,17,Réussie,Allemagne
+2024-05-14,TID00500,CID4253,4311,Virement,Ãpargne,87,32,Réussie,Allemagne
